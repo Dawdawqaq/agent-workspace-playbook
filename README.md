@@ -2,6 +2,8 @@
 
 [简体中文](README.zh-CN.md)
 
+**New to the workflow? Read the [Human guide](Human.md#english) first.**
+
 A small, Git-based workflow for people and coding agents sharing a project. A new session should be able to find the right repository, understand its task, run a meaningful check, and account for the resources it leaves behind.
 
 ## Quick start
